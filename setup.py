@@ -19,5 +19,5 @@ setup(
         "License :: SEE LICENSE IN https://github.com/paypal/Checkout-Python-SDK/blob/master/LICENSE",
         "Operating System :: OS Independent",
     ],
-    install_requires=["paypalhttp"],
+    install_requires=["paypalhttp>=1.0.1"],
 )
