@@ -1,2 +1,2 @@
-paypalhttp
+paypalhttp >= 1.0.1
 responses
